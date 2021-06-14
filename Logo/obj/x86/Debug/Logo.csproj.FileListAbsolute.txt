@@ -1,0 +1,9 @@
+F:\Logo\Logo\bin\Debug\Logo.exe
+F:\Logo\Logo\bin\Debug\Logo.pdb
+F:\Logo\Logo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Logo\Logo\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Logo\Logo\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Logo\Logo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Logo\Logo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Logo\Logo\obj\x86\Debug\Logo.exe
+F:\Logo\Logo\obj\x86\Debug\Logo.pdb
